@@ -25,3 +25,14 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+
+![](Problem5.png)
+```{r}
+#paste0("label",1:30) #no space in between
+
+paste("label",1:30)
+```
+
+
+
